@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Apurba Hasan</h1>
+<h1 align="left">Hi 👋, I'm Apurba Hasan</h1>
 
-<p align="center">
+<p align="left">
   <marquee align="left">Passionate frontend developer based in Bangladesh, crafting engaging web experiences and bringing ideas to life!</marquee>
 </p>
 
