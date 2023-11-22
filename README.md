@@ -1,5 +1,33 @@
-# 💫 About Me:
-🔭 I’m currently working on: Front-end development at Selise Digital Platforms<br>👯 I’m looking to collaborate on: Exciting web projects and open-source contributions<br>🤝 I’m looking for help with: Advanced React and Node.js concepts<br>🌱 I’m currently learning: React and Node.js<br>💬 Ask me about: Angular, front-end technologies, and UI/UX design<br>⚡ Fun fact: When I'm not coding, you can find me on the cricket pitch, giving my best shots with the bat and enjoying the game!<br><br>
+<h1 align="center">Hi 👋, I'm Apurba Hasan</h1>
+
+<p align="center">
+  <marquee align="left">Passionate frontend developer based in Bangladesh, crafting engaging web experiences and bringing ideas to life!</marquee>
+</p>
+
+## 💫 About Me:
+
+Hello! I'm Apurba Hasan, a passionate frontend developer based in the vibrant tech scene of Bangladesh. With a keen eye for detail and a love for clean, elegant code, I specialize in crafting engaging web experiences that leave a lasting impression.
+
+### 🔭 I’m currently working on:
+Front-end development at Selise Digital Platforms
+
+### 👯 I’m looking to collaborate on:
+Exciting web projects and open-source contributions
+
+### 🤝 I’m looking for help with:
+Advanced React and Node.js concepts
+
+### 🌱 I’m currently learning:
+React and Node.js
+
+### 💬 Ask me about:
+Angular, front-end technologies, and UI/UX design
+
+### ⚡ Fun fact:
+When I'm not coding, you can find me on the cricket pitch, giving my best shots with the bat and enjoying the game!
+
+Let's connect and collaborate on innovative projects! I'm always open to discussions about frontend technologies, UI/UX design, and the ever-evolving world of web development. Feel free to reach out—I'm here to code, create, and contribute to the digital landscape!
+
 
 
 ## 🌐 Socials:
